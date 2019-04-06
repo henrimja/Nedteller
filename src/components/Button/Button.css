@@ -1,0 +1,14 @@
+.Button {
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    border-radius: 2px;
+    width: 30%;
+    height: 5rem;
+    font-size: 2em;
+    margin: 0.5rem 1%;
+}
+
+.Button:first-child {
+    order: 1;
+}

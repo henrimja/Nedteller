@@ -1,0 +1,24 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.AppTitle {
+    text-align: center;
+}
+
+.Container {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Start {
+    background-color: #fd5158;
+    height: 5rem;
+    width: 10rem;
+    border: 0;
+    margin: 0 auto;
+}
